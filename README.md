@@ -1,7 +1,7 @@
 # Seismic Testnet Automations Bot
 
 ### Description
-Seismic Testnet Automations Bot is an automated Python script designed to interact with various features within the Seismic Testnet ecosystem. It automates routine tasks such as daily check-ins, claiming faucet tokens, swapping tokens on supported dApps, adding liquidity, sending tokens, completing missions, and managing referral activities automatically.
+The Seismic Testnet Automations Bot is a Python automation script created to simplify user interactions across the Seismic Testnet ecosystem. The bot automates several regular activities, including daily check-ins, faucet claims, token swaps on supported decentralized applications, liquidity additions, token transfers, mission execution, and referral management.
 
 ### Setup Instructions:
 -  Python `3.7 or higher` (recommended 3.9 or 3.10 due to asyncio usage).
